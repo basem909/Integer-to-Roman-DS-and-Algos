@@ -3,7 +3,8 @@
  
  # Solution Performance
  
-<img width="601" alt="Screen Shot 2022-10-22 at 10 10 56" src="https://user-images.githubusercontent.com/92399469/197340943-d46176bc-c6eb-45d8-b0c4-0504c567501a.png">
+<img width="597" alt="Screen Shot 2022-10-22 at 10 27 40" src="https://user-images.githubusercontent.com/92399469/197341643-c0141a6f-29a0-4bd4-b03a-23ad6bc97484.png">
+
 
  # Link to Submission on Leetcode
  
