@@ -1,4 +1,7 @@
-const intToRoman =  (num) => {
+const intToRoman = (num) => {
+  if (!/^\d+$/.test(num)) {
+    return true;
+  }
   const symbols = [
     "M",
     "CM",
@@ -29,5 +32,3 @@ const intToRoman =  (num) => {
   }
   return roman;
 };
-
-console.log(intToRoman(3))
