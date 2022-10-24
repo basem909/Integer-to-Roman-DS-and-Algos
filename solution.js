@@ -1,6 +1,6 @@
 const intToRoman = (num) => {
   if (!/^\d+$/.test(num)) {
-    return true;
+    return 'Only numbers are accepted as parameters';
   }
   const symbols = [
     "M",
